@@ -15,7 +15,7 @@
 
 # [第 1 章 序论](https://github.com/JiajiaLiang2001/Computer-Organization-and-Architecture/blob/main/chapter/chapter1/chapter1.md)
 
-# [第 2 章 计算机系统中的数据表示](https://github.com/JiajiaLiang2001/Computer-Organization-and-Architecture/blob/main/chapter/chapter1/chapter1.md)
+# [第 2 章 计算机系统中的数据表示](https://github.com/JiajiaLiang2001/Computer-Organization-and-Architecture/blob/main/chapter/chapter2/chapter2.md)
 
 # [第 3 章 运算方法与运算器](https://github.com/JiajiaLiang2001/Computer-Organization-and-Architecture/blob/main/chapter/chapter3/chapter3.md)
 
